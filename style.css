@@ -748,6 +748,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .portfolio-row {
@@ -1019,7 +1021,7 @@ h4 {
         margin-top: 30px;
     }
     form {
-        padding: 5px;
+        padding: 15px;
     }
     .close-lightbox {
         display: inline-block;
