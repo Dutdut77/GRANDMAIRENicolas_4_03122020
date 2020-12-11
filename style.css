@@ -740,6 +740,9 @@ h4 {
 .white {
     color: #FFFFFF!important;
 }
+.brown {
+    color: #A73606!important;
+}
 
 .portfolio-thumb {
     margin-bottom: 24px;
@@ -755,7 +758,7 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgba(255, 255, 255, 0.7);
     padding: 40px 40px 40px 40px;
 }
 
@@ -777,16 +780,16 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #4b2c02!important;
 }
 
 .btn-atomic-tangerine {
-    background: #F3976C;
-    color: #FFFFFF!important;
+    background: #fff;
+    color: #B43B04!important;
 }
 
 .btn-atomic-tangerine:hover {
-    background: #c27956!important;
+    background: #B43B04!important;
     color: #FFFFFF!important;
 }
 
