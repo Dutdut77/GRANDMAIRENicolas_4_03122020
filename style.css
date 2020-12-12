@@ -6,6 +6,7 @@ body {
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
+
 blockquote {
     color: #333
 }
@@ -28,7 +29,14 @@ a:hover {
     z-index: 100000;
     background: #FFFFFF url("img/pageload-spinner.gif") no-repeat center center;
 }
-
+.contact {
+   margin: 10px;
+   padding : 20px;
+   background-color: #f3976c; 
+   color: #333;
+   text-align: center;
+  
+}
 .bloc {
     width: 100%;
     clear: both;
@@ -1041,6 +1049,11 @@ h4 {
 
 
 @media (max-width: 767px) {
+
+    .contact {
+        margin: 0;
+
+     }
 
     .bloc-mob-center-text {
         text-align: center;
